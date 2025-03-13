@@ -110,6 +110,7 @@ Upplägg för redovisningen bör vara följande:
 
 
 ## Viktiga datum  
+- **Grupp 4:** Pontus, Mohammed, Fanual
 - **Projektstart:** 11/03/2025  
 - **Eventuell egen kravspecifikation:** 14/03/2025  
 - **Presentationer:** 27/03/2025, 28/03/2025  
